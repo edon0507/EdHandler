@@ -12,4 +12,4 @@ else()
 endif()
 
 #add executable file
-ADD_EXECUTABLE(test Test.cpp EDHandler.cpp EDTimeUtils.cpp)
+ADD_EXECUTABLE(test test.cpp EDHandler.cpp EDTimeUtils.cpp)
