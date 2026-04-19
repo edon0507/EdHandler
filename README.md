@@ -1,2 +1,2 @@
 # EdHandler
-A message handler using standard C++
+This is a cross-platform message handler component that supports PC, Android, iOS, and Linux.
